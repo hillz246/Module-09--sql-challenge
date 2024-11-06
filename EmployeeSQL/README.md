@@ -5,11 +5,17 @@ Assignment 09 Module 09 sql-challenge
 Files **(Data Engineering)**
 
 departments.csv: Contains department information (department number and name).
+
 dept_emp.csv: Maps employees to their respective departments.
+
 dept_manager.csv: Lists department managers by employee number.
+
 employees.csv: Contains employee details, including their employee number, title, birth date, name, sex, and hire date.
+
 salaries.csv: Provides salary information for employees.
+
 titles.csv: Lists employee titles by title ID and name.
+
 
 Other Files
 ERD.png: An Entity Relationship Diagram showing the relationships between the six tables based on the CSV files.
