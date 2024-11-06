@@ -1,5 +1,4 @@
-# Module-09--sql-challenge
-Assignment 09 Module 09 sql-challenge
+
 # Module-09--sql-challenge
 Assignment 09 Module 09 sql-challenge
 # A research project about people whom the company employed during the 1980s and 1990s. 
