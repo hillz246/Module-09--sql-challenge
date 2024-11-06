@@ -2,7 +2,7 @@
 Assignment 09 Module 09 sql-challenge
 # A research project about people whom the company employed during the 1980s and 1990s. 
 
-Files (Data Engineering)
+Files **(Data Engineering)**
 
 departments.csv: Contains department information (department number and name).
 dept_emp.csv: Maps employees to their respective departments.
@@ -16,7 +16,7 @@ ERD.png: An Entity Relationship Diagram showing the relationships between the si
 schema.sql: The SQL script used to create the database schema.
 queries.sql: A set of SQL queries used for analysis, answering specific data-related questions.
 
-Entity Relationship Diagram (ERD) (Data Modeling)
+Entity Relationship Diagram (ERD) **(Data Modeling)**
 The ERD highlights the relationships between:
 
 Employees and their departments.
@@ -28,7 +28,7 @@ This diagram is essential for understanding the structure of the database and th
 ![09 - employee ERD](https://github.com/user-attachments/assets/c4a86080-0fa8-4fa7-819a-0b1741454d35)
 
 
-SQL Queries (Data Analysis)
+SQL Queries **(Data Analysis)**
 1. List the employee number, last name, first name, sex, and salary of each employee.
 2. List the first name, last name, and hire date for employees hired in 1986.
 3. List department managers along with their department number, department name, employee number, last name, and first name.
