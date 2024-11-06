@@ -25,9 +25,8 @@ Employees and their salaries.
 Department managers and the employees they manage.
 This diagram is essential for understanding the structure of the database and the connections between tables.
 
-![
-    
-](<09 - employee ERD.png>)
+![09 - employee ERD](https://github.com/user-attachments/assets/c4a86080-0fa8-4fa7-819a-0b1741454d35)
+
 
 SQL Queries (Data Analysis)
 1. List the employee number, last name, first name, sex, and salary of each employee.
